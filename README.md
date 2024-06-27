@@ -2,7 +2,7 @@
 # Hello, I'm Francisco Flores. 👨‍💻
 
 - 🎓  Bachelors in Systems Engineering [@Hermosillo's Institute of Technology](http://www.ith.mx/)
-- Software developer. <br>Cybersecurity and blockchain entusiast.
+- Software Engineer. <br>Cybersecurity and blockchain entusiast.
 
 
 # 💻 Tech Stack:
